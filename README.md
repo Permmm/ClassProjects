@@ -1,2 +1,2 @@
 # ClassProjects
- Mini Projexts from my classes
+Simple rotating page
